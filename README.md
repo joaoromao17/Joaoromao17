@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Vítor Romão, tenho 21 anos e sou natural de Brasília. Concluí o curso técnico em informática na Escola Técnica de Ceilândia em 2023 e o curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília em 2024.
+Me chamo João Vítor Romão, tenho 22 anos e sou natural de Brasília. Concluí o curso técnico em informática na Escola Técnica de Ceilândia em 2023 e o curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília em 2024.
 
 Sou apaixonado por tecnologia, especialmente por desenvolvimento web e backend com Java. Tenho me dedicado a criar soluções reais, como o sistema completo da minha igreja, "[ICB 610](https://www.icb610.com.br)", que envolve desde o frontend com React até o backend com Spring Boot.
 
