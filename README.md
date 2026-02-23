@@ -4,7 +4,7 @@
 
 Me chamo João Vítor Romão, tenho 22 anos e sou natural de Brasília. Concluí o curso técnico em informática na Escola Técnica de Ceilândia em 2023 e o curso de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília em 2024.
 
-Sou apaixonado por tecnologia, especialmente por desenvolvimento web e backend com Java. Tenho me dedicado a criar soluções reais, como o sistema completo da minha igreja, "[ICB 610](https://www.icb610.com.br)", que envolve desde o frontend com React até o backend com Spring Boot "[código](https://github.com/joaoromao17/backend_CasaDaBencao)".
+Sou apaixonado por tecnologia, especialmente por desenvolvimento web e backend com Java. Tenho me dedicado a criar soluções reais, como o sistema completo da minha igreja, "[ICB 610](https://www.icb610.com.br)", que envolve desde o frontend com React "[código](https://github.com/joaoromao17/casa-da-ben)" até o backend com Spring Boot "[código](https://github.com/joaoromao17/backend_CasaDaBencao)".
 
 Gosto de compartilhar o que aprendo e trocar experiências com outros desenvolvedores, além de estar sempre buscando evoluir como profissional e como pessoa. Atualmente estou em busca de novas oportunidades na área de desenvolvimento.
 
